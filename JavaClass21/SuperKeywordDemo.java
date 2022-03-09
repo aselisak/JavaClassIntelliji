@@ -20,7 +20,7 @@ public class SuperKeywordDemo {
     void printName(){ System.out.println("I am a parent");}
 
     }
-    class Child extends Parent{
+    class Child extends Parent1 {
         String color = "Red";
     void printName(){ System.out.println("I am a child");}
         void print(){
@@ -33,6 +33,6 @@ public class SuperKeywordDemo {
         void printColor() {
             String color = "green";//refers to local variable
             System.out.println(color);//refers to instance variable
-            System.out.println(super.color);//bring the variable value from parent class=>refers to parent variable
+           // System.out.println(super.color);//bring the variable value from parent class=>refers to parent variable
         }
     }

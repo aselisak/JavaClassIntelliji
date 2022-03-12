@@ -17,5 +17,6 @@ static void add(String num1, String num2){
     public static void main(String[] args) {
         add(10.0,10.0);
         add("10","15");
+        add(10,10);
     }
 }

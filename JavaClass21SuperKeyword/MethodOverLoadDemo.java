@@ -1,4 +1,4 @@
-package JavaClass21;
+package JavaClass21SuperKeyword;
 
 public class MethodOverLoadDemo {
   static  void add(int num1, int num2){

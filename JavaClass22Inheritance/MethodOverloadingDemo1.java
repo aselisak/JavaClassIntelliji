@@ -1,4 +1,4 @@
-package JavaClass22;
+package JavaClass22Inheritance;
 
 public class MethodOverloadingDemo1 {
     public static void main(String[] args) {

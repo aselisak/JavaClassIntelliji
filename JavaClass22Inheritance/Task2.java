@@ -1,4 +1,4 @@
-package JavaClass22;
+package JavaClass22Inheritance;
 
 class Shape{
     double radius;

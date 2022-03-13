@@ -1,4 +1,4 @@
-package JavaClass21;
+package JavaClass21SuperKeyword;
 
 public class SuperKeywordDemo {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 Method overloading in Java:
 When same method name exists in a class but with different number of parameters or different data type of
-parameters or different sequance of parameters.
+parameters or different sequence of parameters.
 
 Pros of method overloading:
   Flexibility of having same name methods in class

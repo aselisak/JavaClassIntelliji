@@ -26,5 +26,5 @@ Two types of polymorphism:
 OOPS Main Pillars:
 1. Inheritance==>(Code re-usability)
 2. Polymorphism==>(less code dynamic code)
-3. AAbstraction ()
-4. Encapsulating
+3. Abstraction ()
+4. Encapsulating==> secure the data from other methods, when we make a data private then these data only use withing the class

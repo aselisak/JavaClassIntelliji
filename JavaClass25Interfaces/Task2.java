@@ -1,4 +1,4 @@
-package JavaClass25;
+package JavaClass25Interfaces;
 
 public interface Task2 {
     //Create a WebDriver Interface that will have the following unimplemented behaviour:

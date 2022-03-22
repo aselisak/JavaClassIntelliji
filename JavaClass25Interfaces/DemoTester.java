@@ -1,4 +1,4 @@
-package JavaClass25;
+package JavaClass25Interfaces;
 
 public class DemoTester {
     public static void main(String[] args) {

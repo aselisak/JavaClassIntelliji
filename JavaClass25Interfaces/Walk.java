@@ -1,4 +1,4 @@
-package JavaClass25;
+package JavaClass25Interfaces;
 
 interface HealthAble{
     void healthy();

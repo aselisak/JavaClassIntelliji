@@ -1,4 +1,4 @@
-package JavaClass25;
+package JavaClass25Interfaces;
 
 public abstract class SmartWatch {
     //we can have instance variables in an abstract class

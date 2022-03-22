@@ -1,4 +1,4 @@
-package JavaClass25;
+package JavaClass25Interfaces;
 
 public interface Human {
     // public static final redundant because by default all the variables are public static final

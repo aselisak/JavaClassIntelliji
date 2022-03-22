@@ -1,4 +1,4 @@
-package JavaClass25;
+package JavaClass25Interfaces;
 
 public class WatchTester {
     public static void main(String[] args) {

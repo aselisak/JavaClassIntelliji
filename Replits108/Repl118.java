@@ -9,5 +9,6 @@ public class Repl118 {
     public static void main(String[] args) {
         Repl118 obj = new Repl118();
         System.out.println(obj.spaceOut("hello"));
+        System.out.println(obj.spaceOut("technology"));
     }
 }

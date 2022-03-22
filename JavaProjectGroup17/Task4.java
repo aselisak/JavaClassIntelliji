@@ -9,9 +9,8 @@ public class Task4 {
     public static void main(String[] args) {
         Registration registration = new Registration();
         registration.setEmail("sdet@yahoo.com");
-        registration.userName("Tester123");
-        registration.setPassword("123654tester");
-
+        registration.setUserName("Tester123");
+        registration.setPassword("123Tester");
     }
 }
 class Registration {
@@ -25,15 +24,17 @@ class Registration {
             System.out.println(email);
         } else { System.out.println("enter valid email address");}}
 
-    public void userName(String userName) {
+    public void setUserName(String userName) {
         if (!userName.isEmpty() && userName.length() > 6) {
             this.userName = userName;
+            System.out.println(userName);
         } else {System.out.println("Username cannot be empty or less than 6 characters");}}
 
     public void setPassword(String password){
-        if (!password.isEmpty() && password.length()>6){
+        if (!password.isEmpty() && password.length()>6 && !password.startsWith(userName)&& !password.contains(userName)){
             this.password=password;
-        }else {System.out.println("Password cannot be empty or less than 6 characters");}}
+            System.out.println(password);
+        }else {System.out.println("Password cannot be empty or less than 6 characters or cannot contain username");}}
     }
 
 

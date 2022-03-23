@@ -1,0 +1,17 @@
+package com.syntax.classreview;
+
+public class ForDemo3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		for (int x=0; x<5; x++) {
+			System.out.println("batch12");
+			x--;
+		}
+		
+		
+	}
+
+}

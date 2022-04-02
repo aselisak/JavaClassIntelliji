@@ -14,3 +14,4 @@ public class SetDemo2 {
         System.out.println(fruit);
     }
 }
+

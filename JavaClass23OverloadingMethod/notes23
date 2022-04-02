@@ -9,10 +9,16 @@ Pros of method overloading:
 
 
   Rules:
-  we overload the constructors
-  we can overload the static method as well
-  we can overload constructor methods
-  we can overload main method
+  1.we overload the constructors
+  2.we can overload the static method as well
+  3.we can overload main method
+  ----------------------------------
+  4.Method should be same
+  5.method signature (method name +parameter list) should be different
+  6. we can't overload a method by just changing its return type
+  7. we can't overload a method by just changing access modifiers(public, private etc)
+  8. we can't overload a method by just changing non-access modifiers(static, default)
+
 
 //If else conditions
 //Loops

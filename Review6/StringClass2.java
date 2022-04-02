@@ -1,4 +1,4 @@
-package ReviewStrings;
+package Review6;
 
 public class StringClass2 {
     public static void main(String[] args) {

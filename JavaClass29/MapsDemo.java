@@ -21,5 +21,6 @@ public class MapsDemo {
         groceries.put("Teyfur","Eggs, Milk, Bread etc");
         groceries.put("Asghar","MacBook, Iphone 13, Apple Stand for 1000$ etc");
         System.out.println(groceries.get("Lilly"));
+
     }
 }

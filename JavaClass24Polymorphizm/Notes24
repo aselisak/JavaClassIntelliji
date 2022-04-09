@@ -13,7 +13,7 @@ Method overriding in Java:
  3) if something does not participate in inheritance, we  cant override it like constructors and private methods
  4) we can increase visibility in the child classes but we cant decrease it for example we cant go from default
  or protected to public, but we  an do reverse
- 5) we cant override a static method but we can redeclare it. for example main method cant be overriden as it is
+ 5) we cant override a static method but we can redeclare it. for example main method cant be override as it is
  static
  6) we cant have different return type in the child class it must be same as of parent class
 if we have same method name with different parameters its called overloading.

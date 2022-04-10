@@ -17,8 +17,5 @@ public class PropertiesFileDemo1 {
         properties.load(fileInputStream);
         System.out.println(properties.get("username"));
         System.out.println(properties.get("password"));
-
-
-
     }
 }

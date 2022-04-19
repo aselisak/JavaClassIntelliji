@@ -5,7 +5,7 @@ public class Task5 {
 
 
         Task5 task = new Task5();
-        System.out.println(task.isPalindrome("aba"));
+        System.out.println(task.isPalindrome("mama"));
 
 
     }

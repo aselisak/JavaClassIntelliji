@@ -13,7 +13,7 @@ public class Replit100 {
         String s = inp.next();
         String reverseString="";
         for (int i=s.length()-1; i>=0; i--){
-            reverseString=reverseString+s.charAt(i);
+            reverseString += s.charAt(i);
         }
         System.out.println(reverseString);
 
